@@ -23,4 +23,4 @@ cp .env.example .env
 Vamos a seguir explicando conceptos de Go y a explorar que tiene la API de gemini para nosotros!
 [RSVP aquí](https://gdg.community.dev/events/details/google-gdg-guayaquil-presents-gemini-bot-dev-terminemos-nuestro-bot/)
 
-Si quieres ser parte del cohacking descarga [Zed](https://zed.dev/download) y añade o contacta a [practicat](https://github.com/practicatto)
+Si quieres ser parte del cohacking descarga [Zed](https://zed.dev/download) y añade o contacta a practicat en discord
